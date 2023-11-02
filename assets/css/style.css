@@ -463,6 +463,15 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+#about {
+  background-color: #151515;
+}
+.about-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+
+}
 .about .image {
   padding: 20px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -497,6 +506,18 @@ section {
 /*--------------------------------------------------------------
 # Products
 --------------------------------------------------------------*/
+#products {
+  width: 100%;
+  height: 100vh;
+  background-color: #151515;
+  position: relative;
+}
+.product-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+
+}
 .products .products-item {
   margin-bottom: 30px;
 }
@@ -781,7 +802,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  background: whitesmoke;
+  background-color: #151515;
   padding: 0;
 }
 
@@ -984,6 +1005,9 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+#portfolio {
+  background-color: #151515;
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -1299,7 +1323,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: whitesmoke;
+  background: rgb(39, 37, 37);
   padding: 15px 0;
   text-align: center;
 }
@@ -1333,8 +1357,14 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background-color: #151515;
   padding: 60px 0;
+}
+.team-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+
 }
 
 .team .member {
@@ -1417,7 +1447,7 @@ section {
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
-  background: #fff;
+  background-color: #151515;
   text-align: center;
   border-radius: 8px;
   position: relative;
@@ -1590,6 +1620,16 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+#contact {
+  background-color: #151515;
+}
+.contact-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+
+}
+
 .contact .info {
   width: 100%;
   height: 100%;
