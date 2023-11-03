@@ -1328,6 +1328,16 @@ section {
   text-align: center;
 }
 
+.spacer{
+  background : #151515;
+  padding: 15px 0;
+}
+
+.spacer1{
+  background : #424242;
+  padding: 1px 0;
+}
+
 .clients img {
   width: 50%;
   filter: grayscale(100);
@@ -1623,6 +1633,7 @@ section {
 #contact {
   background-color: #151515;
 }
+
 .contact-section-title {
   text-align: center;
   padding-bottom: 40px;
@@ -1824,6 +1835,10 @@ section {
   color: #fff;
   font-size: 14px;
   position: relative;
+}
+
+#footerclr{
+  background-color: #151515;
 }
 
 #footer::before {
