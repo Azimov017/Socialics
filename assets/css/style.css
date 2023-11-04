@@ -1993,6 +1993,19 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Yasal
+--------------------------------------------------------------*/
+.yasal {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.yasal-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
 # Site Haritasi
 --------------------------------------------------------------*/
 .smap {
@@ -2000,6 +2013,45 @@ section {
   padding: 60px 0;
 }
 .smap-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Map to Life
+--------------------------------------------------------------*/
+.maptolife {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.maptolife-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Bilgin Para
+--------------------------------------------------------------*/
+.blgnpra {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.blgnpra-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Listem Senden
+--------------------------------------------------------------*/
+.lstsndn {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.lstsndn-section-title {
   text-align: center;
   padding-bottom: 40px;
   color: #fff;
