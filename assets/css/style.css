@@ -1363,6 +1363,8 @@ section {
   }
 }
 
+
+
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
@@ -1962,4 +1964,43 @@ section {
   text-align: center;
   font-size: 13px;
   padding-top: 5px;
+}
+
+/*--------------------------------------------------------------
+# Kullanım
+--------------------------------------------------------------*/
+.kullanm {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.kullanm-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Yardım
+--------------------------------------------------------------*/
+.yardm {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.yardm-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Site Haritasi
+--------------------------------------------------------------*/
+.smap {
+  background-color: #151515;
+  padding: 60px 0;
+}
+.smap-section-title {
+  text-align: center;
+  padding-bottom: 40px;
+  color: #fff;
 }
