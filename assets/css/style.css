@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
 
@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-  color: #9ed49a;
+  color: #4964eb;
   text-decoration: none;
 }
 
@@ -31,7 +31,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Roboto', sans-serif;
+
 }
 
 /*--------------------------------------------------------------
@@ -393,8 +394,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Montserrat";
-  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 20px;
   letter-spacing: 1px;
@@ -856,7 +856,7 @@ section {
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1480,7 +1480,7 @@ section {
   font-size: 42px;
   color: #151515;
   font-weight: 700;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-bottom: 20px;
 }
 
@@ -1533,7 +1533,7 @@ section {
   color: #4964eb;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1589,7 +1589,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: #000000;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
@@ -1870,7 +1870,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding: 30px 0 0 0;
   margin-bottom: 0;
 }
@@ -1970,52 +1970,52 @@ section {
 # Kullanım
 --------------------------------------------------------------*/
 .kullanm {
-  background-color: #151515;
+  background-color: #ffffff;
   padding: 60px 0;
 }
 .kullanm-section-title {
   text-align: center;
   padding-bottom: 40px;
-  color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
 # Yardım
 --------------------------------------------------------------*/
 .yardm {
-  background-color: #151515;
+  background-color: #fffefe;
   padding: 60px 0;
 }
 .yardm-section-title {
   text-align: center;
   padding-bottom: 40px;
-  color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
 # Yasal
 --------------------------------------------------------------*/
 .yasal {
-  background-color: #151515;
+  background-color: #ffffff;
   padding: 60px 0;
 }
 .yasal-section-title {
   text-align: center;
   padding-bottom: 40px;
-  color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
 # Site Haritasi
 --------------------------------------------------------------*/
 .smap {
-  background-color: #151515;
+  background-color: #ffffff;
   padding: 60px 0;
 }
 .smap-section-title {
   text-align: center;
   padding-bottom: 40px;
-  color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
