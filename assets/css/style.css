@@ -554,7 +554,6 @@ section {
 }
 
 .products .products-wrap {
-  transition: 0.1s;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -571,11 +570,11 @@ section {
   bottom: 30px;
   transition: all ease-in-out 0.1s;
   z-index: 2;
-  opacity: 0;
+  opacity: 100;
 }
 
 .products .products-wrap .products-info {
-  opacity: 0;
+  opacity: 5;
   position: absolute;
   top: 0;
   left: 0;
